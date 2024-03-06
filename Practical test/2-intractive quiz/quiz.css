@@ -1,0 +1,16 @@
+#submit{
+background-color: green;
+color:white;
+}
+
+.output{
+    background-color: gray; 
+    display:inline-block; 
+    margin: 20px; 
+    padding: 20px; 
+    width: 10%;
+    height: 25%;
+}
+#result{
+    color:aliceblue;
+}
